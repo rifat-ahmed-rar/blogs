@@ -88,7 +88,7 @@ const Header: React.FC = () => {
             className="text-xl sm:text-2xl md:hover:text-marrsgreen dark:md:hover:text-carrigreen focus-visible:outline-marrsgreen dark:focus-visible:outline-carrigreen"
           >
             RAR
-            <span className="text-marrsgreen dark:text-carrigreen">.dev</span>
+            <span className="text-marrsgreen dark:text-carrigreen">.Sec</span>
           </Link>
           <div className="flex">
             <nav className="hidden md:block">
